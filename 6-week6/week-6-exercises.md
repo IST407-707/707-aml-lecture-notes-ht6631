@@ -52,6 +52,12 @@ You will have 15 minutes for each proposal idea, after which we will discuss the
 
 
 
+Working on the project
+1. think about stakeholders
+2. Objective, what I'm going to do, why ml is a great tool for this question
+3. data identification
+4. modeling methods, what are the strategies
+
 
 
 
